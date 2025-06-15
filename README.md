@@ -2,7 +2,7 @@
 
 **QrCode Generator**
 
-Small Web App used to generatoe qrcode with fields specified
+Small Web App used to generate qrcode with fields specified
 
 **QrCode App**
 
